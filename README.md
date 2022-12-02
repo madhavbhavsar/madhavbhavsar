@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhavbhavsar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="madhavbhavsar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/madbhavsar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="madbhavsar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhavbhavsar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="madhavbhavsar" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/madbhavsar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="madbhavsar" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
