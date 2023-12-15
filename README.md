@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://madhavbhavsar.github.io/](https://madhavbhavsar.github.io/)
 
-- 📫 How to reach me **madhavbhavsar05@gmail.com**
+- 📫 How to reach me **madhavbhavsar21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
